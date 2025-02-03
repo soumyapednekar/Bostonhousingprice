@@ -5,8 +5,7 @@ start with creating a environment
 conda activate development
 
 Create a new environment 
-conda create -p venv python==3.7 -y
-start the environment 
+cd start the environment 
 conda activate venv\
 
 
